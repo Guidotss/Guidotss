@@ -27,7 +27,7 @@
 <a href="http://react.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://nextjs.org/"target="_blank" >
+<a href="https://nextjs.org/"target="_blank`" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
 </a>
 <a href="https://nodejs.org/" targe="_blank">
@@ -57,7 +57,7 @@
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 </a>
-<a href="https://tailwindcss" target="_blank">
+<a href="https://tailwindcss.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/>
 </a>
 <a href="https://cplusplus.com/" target="_blank">
