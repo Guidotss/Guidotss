@@ -24,7 +24,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"
     width="40" height="40"/>
 </a>
-
 <a href="http://react.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
@@ -43,8 +42,6 @@
 <a href="http://nestjs.com/" target="blank">
     <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="Nest Logo" />
 </a>
-
-
 <a href="https://www.mongodb.com"
     target="_blank" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
