@@ -1,8 +1,5 @@
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guidotss&show_icons=true&locale=en" alt="guidotss" /></p>
-<p > <img align="center" src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devcer&layout=compact alt=santosh viswanatham /> </p>
-
 <h3>Languages and teconologies</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
