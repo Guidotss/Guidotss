@@ -62,3 +62,16 @@
         alt="cplusplus" width="40" height="40"
     />
 </a>
+<a href=https://dotnet.microsoft.com/en-us/apps/aspnet>
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+        alt="dotnet" width="40" height="40"
+    />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+        alt="csharp" width="40" height="40"
+    />
+</a>
+</p>
