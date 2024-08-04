@@ -78,7 +78,6 @@
 <a href="https://flutter.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 </a>
-<!-- add qwik icon -->
 <a href="https://www.qwik.dev/" target="_blank">
     <img src="https://www.qwik.dev/favicon.ico" alt="qwik" width="40" height="40"/>
 </a>
