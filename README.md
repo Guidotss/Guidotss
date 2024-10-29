@@ -1,5 +1,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guidotss&show_icons=true&locale=en" alt="guidotss" /></p>
-<p > <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guidotss" alt="Guido Olguin" /> </p>
+<p > <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guidotss&layout=compact" alt="Guido Olguin" /> </p>
 
 <h3>Languages and teconologies</h3>
 <p align="left"> 
